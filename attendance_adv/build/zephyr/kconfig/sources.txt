@@ -1,6 +1,6 @@
-/Users/Isaac/nrf_apps/attendance_adv/build/Kconfig/Kconfig.modules
-/Users/Isaac/nrf_apps/attendance_adv/build/Kconfig/Kconfig.shield
-/Users/Isaac/nrf_apps/attendance_adv/build/Kconfig/Kconfig.shield.defconfig
+/Users/Isaac/nrf_apps/397_Attendance/attendance_adv/build/Kconfig/Kconfig.modules
+/Users/Isaac/nrf_apps/397_Attendance/attendance_adv/build/Kconfig/Kconfig.shield
+/Users/Isaac/nrf_apps/397_Attendance/attendance_adv/build/Kconfig/Kconfig.shield.defconfig
 /opt/nordic/ncs/v1.9.1/modules/debug/TraceRecorder/kernelports/Zephyr/Kconfig
 /opt/nordic/ncs/v1.9.1/modules/debug/TraceRecorder/kernelports/Zephyr/streamports/ARM_ITM/Kconfig
 /opt/nordic/ncs/v1.9.1/modules/debug/TraceRecorder/kernelports/Zephyr/streamports/Jlink_RTT/Kconfig

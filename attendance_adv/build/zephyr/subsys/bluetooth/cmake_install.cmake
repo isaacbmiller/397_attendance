@@ -39,11 +39,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/Isaac/nrf_apps/attendance_adv/build/zephyr/subsys/bluetooth/common/cmake_install.cmake")
+  include("/Users/Isaac/nrf_apps/397_Attendance/attendance_adv/build/zephyr/subsys/bluetooth/common/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/Isaac/nrf_apps/attendance_adv/build/zephyr/subsys/bluetooth/host/cmake_install.cmake")
+  include("/Users/Isaac/nrf_apps/397_Attendance/attendance_adv/build/zephyr/subsys/bluetooth/host/cmake_install.cmake")
 endif()
 

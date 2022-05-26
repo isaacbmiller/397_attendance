@@ -709,7 +709,7 @@ rule C_STATIC_LIBRARY_LINKER__kernel_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /opt/nordic/ncs/v1.9.1/toolchain/Cellar/cmake/3.21.1/bin/cmake --regenerate-during-build -S/Users/Isaac/nrf_apps/attendance_scan -B/Users/Isaac/nrf_apps/attendance_scan/build
+  command = /opt/nordic/ncs/v1.9.1/toolchain/Cellar/cmake/3.21.1/bin/cmake --regenerate-during-build -S/Users/Isaac/nrf_apps/397_Attendance/attendance_scan -B/Users/Isaac/nrf_apps/397_Attendance/attendance_scan/build
   description = Re-running CMake...
   generator = 1
 

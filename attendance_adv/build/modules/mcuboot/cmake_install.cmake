@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/Isaac/nrf_apps/attendance_adv/build/modules/mcuboot/boot/bootutil/zephyr/cmake_install.cmake")
+  include("/Users/Isaac/nrf_apps/397_Attendance/attendance_adv/build/modules/mcuboot/boot/bootutil/zephyr/cmake_install.cmake")
 endif()
 

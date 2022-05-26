@@ -39,21 +39,21 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/Isaac/nrf_apps/attendance_scan/build/modules/nrf/lib/bin/cmake_install.cmake")
+  include("/Users/Isaac/nrf_apps/397_Attendance/attendance_scan/build/modules/nrf/lib/bin/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/Isaac/nrf_apps/attendance_scan/build/modules/nrf/lib/multithreading_lock/cmake_install.cmake")
+  include("/Users/Isaac/nrf_apps/397_Attendance/attendance_scan/build/modules/nrf/lib/multithreading_lock/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/Isaac/nrf_apps/attendance_scan/build/modules/nrf/lib/flash_patch/cmake_install.cmake")
+  include("/Users/Isaac/nrf_apps/397_Attendance/attendance_scan/build/modules/nrf/lib/flash_patch/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/Isaac/nrf_apps/attendance_scan/build/modules/nrf/lib/fatal_error/cmake_install.cmake")
+  include("/Users/Isaac/nrf_apps/397_Attendance/attendance_scan/build/modules/nrf/lib/fatal_error/cmake_install.cmake")
 endif()
 
