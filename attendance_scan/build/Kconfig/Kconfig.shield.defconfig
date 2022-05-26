@@ -1,0 +1,3 @@
+osource "/Users/Isaac/nrf_apps/attendance_scan/boards/shields/*/Kconfig.defconfig"
+osource "/Users/Isaac/nrf_apps/attendance_scan/boards/shields/*/Kconfig.defconfig"
+osource "/opt/nordic/ncs/v1.9.1/nrf/boards/shields/*/Kconfig.defconfig"
